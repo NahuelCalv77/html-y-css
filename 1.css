@@ -1,0 +1,54 @@
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+div {
+    background-color: blue;
+    padding: 15px;
+    padding-left: 53px;
+}
+h1 {
+    color: blueviolet;
+    height: 2%;
+}
+/*esto es un selector de tipo*/
+img {
+    width: 30%; /*ancho*/
+    height: auto;
+    background: violet;
+    margin: auto;
+    display: block;
+    border-width: 8px;
+    border-color: aquamarine;
+    border-style:groove solid dotted dashed/*probate un par*/
+   /* border-radius: 30%;
+   hay varios tipos de margin dependiendo del lado
+   desactiva todos los bordes para q corran los bordes
+   margin: margen sup, margen der, margen inf y margen derecho
+   padding es un contenedor de las imagenes
+   
+   
+   */
+
+   /* box-shadow: 5px 5px 0px black;/
+   padding: 2%;
+   border: 2% solid violet;*/
+}
+#tuvieja {
+    border-radius: 50%;
+    border-width: 5px;
+    border-style: groove;
+    border-color: blue;
+
+}
+.bordesredondeados {
+    border-radius: 30%;
+}
+.menta {
+    height: 10%;
+    /*selector de clase*/
+}
+/*  el selector universal es * */
+p{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;;
+}

@@ -1,0 +1,61 @@
+/*SELECTORES DE ATRIBUTO
+<presencia o valor. ej: a[title]
+<atributo con un valor especifico
+<hay mas pero aca no los vemos 
+
+
+pagina de ejemplos*/
+
+img[alt] {
+    border-radius: 50%;
+
+
+}
+[type="radio"] {
+    margin: 25px;
+}
+/*en ese caso se aplica a todos, pero en realidad podriamos ser mas especificos y especificar q sea solo para loa imput 
+
+a[href:"4.jpg"] {
+le podemos meter un text decorarion y font wight, y si le ponemos bold es negrita jijijija
+
+
+unidades
+px
+
+unidades relativas
+em->tamaño de letra del elemento padre
+ex
+ch
+vw->1% de la ventana grafica
+vh->altura de la ventana grafica
+
+visitar "valores y unidades css de la rdd de mozilla"
+
+
+no te olvides de tomar al body y otros elementos como cosas a parte
+
+
+
+codigo hexadecimal
+
+hexadecimal code
+base 16
+
+1 al 9, a al f
+#   00    00     00
+   rojo  verde  azul
+color piker para conseguir los colores
+
+
+
+
+
+}*/
+
+
+
+
+
+
+
